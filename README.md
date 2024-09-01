@@ -6,7 +6,7 @@ Greetings Everyone,
 I'm Vipul Kachave.
 I recently completed a project focused on Walmart sales analysis. Utilizing SQL, I conducted an in-depth exploration of Walmart's extensive sales data, aiming to derive meaningful insights into sales trends, customer behavior, and product performance. This project allowed me to sharpen my SQL skills while gaining valuable experience in data analysis, providing a comprehensive understanding of how large-scale retail data can be leveraged for strategic decision-making. I am excited to share the findings and methodologies of this project.
 
-🔍 **Key Highlights:**
+# 🔍 Key Highlights:
 
 # Data Cleaning & Transformation: 
 Streamlined the raw data for better analysis and accuracy.
@@ -20,7 +20,7 @@ Leveraged complex SQL queries to extract meaningful insights.
 # Data-Driven Insights:
 Provided strategic recommendations based on data patterns and trends.
 
-🔍 **Key Aspects:** 
+# 🔍 Key Aspects:
 
 • Total sales generated for each Product category.
 • Top 5 products by Unit Price
@@ -30,7 +30,7 @@ Provided strategic recommendations based on data patterns and trends.
 • Total quantity of each Product category sold.
 • Total sales and Gross Income of customers.
 
-🔍 **Insights :** 
+# 🔍 Insights :
 
 1. Naypyitaw City has Highest Total Gross income of customers.
 2. Food and Beverages generated Highest Revenue of 56144.
