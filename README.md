@@ -28,10 +28,10 @@ I recently completed a project focused on Walmart sales analysis. Utilizing SQL,
 
  **🔍 Insights :**
 1. **Naypyitaw** City has Highest Total Gross income of customers.
-2.**Food and Beverages**  generated Highest Revenue of **56144**.
-2. **281** Transactions occured **after 6:00 PM**.
-3. Highest sales made in month of **JANUARY** which is **116291**.
-4. Products comes under **Sports and Travel** has Highest unit price which is **99.96**.
+2. **Food and Beverages**  generated Highest Revenue of **56144**.
+3. **281** Transactions occured **after 6:00 PM**.
+4. Highest sales made in month of **JANUARY** which is **116291**.
+5. Products comes under **Sports and Travel** has Highest unit price which is **99.96**.
 
 
 This project has honed my skills in data analysis, SQL optimization, and has deepened my understanding of retail sales dynamics.
